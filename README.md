@@ -1,4 +1,4 @@
-<p align="center"> # YT-Unlimited-Speed </p>
+<h1 align="center">Youtube Unlimited Speed</h1>
 
 <p align="center">go limitless with this extension </p>
 
